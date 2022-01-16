@@ -1,52 +1,132 @@
 {
     "products": [
       {
-        "_id": "dress1",
-        "image": "/images/dress1.jpg",
-        "title": "Midi sundress with shirring detail",
-        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
-        "availableSizes": ["X", "L", "XL", "XXL"],
-        "price": 29.9
+        "_id": "terminal1",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)25",
+        "description": "MTB-1244FD025FW-P",
+        "availableSizes": ["25"],
+        "price": 443.58
       },
       {
-        "_id": "dress2",
-        "image": "/images/dress2.jpg",
-        "title": "Midi sundress with ruched front",
-        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
-        "availableSizes": ["X", "M", "L"],
-        "price": 18.9
+        "_id": "terminal2",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)100",
+        "description": "MTB-1244FD100FW",
+        "availableSizes": ["100"],
+        "price": 465.66
       },
       {
-        "_id": "dress3",
-        "image": "/images/dress3.jpg",
-        "title": "Midi dress in pink ditsy floral",
-        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
-        "availableSizes": ["X", "M", "L"],
-        "price": 14.9
+        "_id": "terminal3",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)200",
+        "description": "MTB-1244FD200FW",
+        "availableSizes": ["200"],
+        "price": 495.12
       },
       {
-        "_id": "dress4",
-        "image": "/images/dress4.jpg",
-        "title": "cami maxi dress in polka dot",
-        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
-        "availableSizes": ["XL"],
-        "price": 25.9
+        "_id": "terminal4",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)300",
+        "description": "MTB-1244FD300FW",
+        "availableSizes": ["300"],
+        "price": 581.94
       },
       {
-        "_id": "dress5",
-        "image": "/images/dress5.jpg",
-        "title": "Frill mini dress in yellow polka dot",
-        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
-        "availableSizes": ["X", "L", "XL"],
-        "price": 10.9
+        "_id": "terminal5",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)400",
+        "description": "MTB-1244FD400FW-P",
+        "availableSizes": ["400"],
+        "price": 645.19
       },
       {
-        "_id": "dress6",
-        "image": "/images/dress6.jpg",
-        "title": "Midi tea dress in blue and red spot",
-        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
-        "availableSizes": ["XL", "XXL"],
-        "price": 49.9
+        "_id": "terminal6",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)500",
+        "description": "MTB-1244FD500FW-P",
+        "availableSizes": ["500"],
+        "price": 674.65
+      },
+      {
+        "_id": "terminal7",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)600",
+        "description": "MTB-1244FD600FW-P",
+        "availableSizes": ["600"],
+        "price": 721.31
+      },
+      {
+        "_id": "terminal8",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)700",
+        "description": "MTB-1244FD700FW-P",
+        "availableSizes": ["700"],
+        "price": 750.6
+      },
+      {
+        "_id": "terminal9",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)800",
+        "description": "MTB-1244FD800FW-P",
+        "availableSizes": ["800"],
+        "price": 779.88
+      },
+      {
+        "_id": "terminal10",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)900",
+        "description": "MTB-1244FD900FW-P",
+        "availableSizes": ["900"],
+        "price": 835.5
+      },
+      {
+        "_id": "terminal11",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)1000",
+        "description": "MTB-1244FDA00FW-P",
+        "availableSizes": ["1000"],
+        "price": 865.74
+      },
+      {
+        "_id": "terminal12",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)1100",
+        "description": "",
+        "availableSizes": ["1100"],
+        "price": 895.96
+      },
+      {
+        "_id": "terminal13",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)1200",
+        "description": "",
+        "availableSizes": ["1200"],
+        "price": 926.19
+      },
+      {
+        "_id": "terminal14",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)1300",
+        "description": "",
+        "availableSizes": ["1300"],
+        "price": 956.43
+      },
+      {
+        "_id": "terminal15",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)1400",
+        "description": "",
+        "availableSizes": ["1400"],
+        "price": 986.67
+      },
+      {
+        "_id": "terminal16",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)1500",
+        "description": "",
+        "availableSizes": ["1500"],
+        "price": 1016.92
       }
     ]
   }

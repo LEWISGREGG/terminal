@@ -75,7 +75,7 @@ class App extends React.Component {
     return (
       <div className="grid-container">
         <header>
-          <a href="/">React Shopping Cart</a>
+          <a href="/">BILL OF MATERIALS</a>
         </header>
         <main>
           <div className="content">
@@ -100,7 +100,7 @@ class App extends React.Component {
             </div>
           </div>
         </main>
-        <footer>All right is reserved.</footer>
+        <footer>MANCHESTER UNITED 2022</footer>
       </div>
     );
   }
