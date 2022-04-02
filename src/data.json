@@ -11,29 +11,37 @@
       {
         "_id": "terminal2",
         "image": "/images/terminal1.png",
-        "title": "FTTX-CO12(MPU)100",
-        "description": "MTB-1244FD100FW",
-        "availableSizes": ["100"],
-        "price": 465.66
+        "title": "FTTX-CO12(MPU)50",
+        "description": "MTB-1244FD050FW-P",
+        "availableSizes": ["50"],
+        "price": 455.66
       },
       {
         "_id": "terminal3",
         "image": "/images/terminal1.png",
-        "title": "FTTX-CO12(MPU)200",
-        "description": "MTB-1244FD200FW",
-        "availableSizes": ["200"],
-        "price": 495.12
+        "title": "FTTX-CO12(MPU)100",
+        "description": "MTB-1244FD100FW-P",
+        "availableSizes": ["100"],
+        "price": 465.66
       },
       {
         "_id": "terminal4",
         "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)200",
+        "description": "MTB-1244FD200FW-P",
+        "availableSizes": ["200"],
+        "price": 495.12
+      },
+      {
+        "_id": "terminal5",
+        "image": "/images/terminal1.png",
         "title": "FTTX-CO12(MPU)300",
-        "description": "MTB-1244FD300FW",
+        "description": "MTB-1244FD300FW-P",
         "availableSizes": ["300"],
         "price": 581.94
       },
       {
-        "_id": "terminal5",
+        "_id": "terminal6",
         "image": "/images/terminal1.png",
         "title": "FTTX-CO12(MPU)400",
         "description": "MTB-1244FD400FW-P",
@@ -41,7 +49,7 @@
         "price": 645.19
       },
       {
-        "_id": "terminal6",
+        "_id": "terminal7",
         "image": "/images/terminal1.png",
         "title": "FTTX-CO12(MPU)500",
         "description": "MTB-1244FD500FW-P",
@@ -49,7 +57,7 @@
         "price": 674.65
       },
       {
-        "_id": "terminal7",
+        "_id": "terminal8",
         "image": "/images/terminal1.png",
         "title": "FTTX-CO12(MPU)600",
         "description": "MTB-1244FD600FW-P",
@@ -57,7 +65,7 @@
         "price": 721.31
       },
       {
-        "_id": "terminal8",
+        "_id": "terminal9",
         "image": "/images/terminal1.png",
         "title": "FTTX-CO12(MPU)700",
         "description": "MTB-1244FD700FW-P",
@@ -65,7 +73,7 @@
         "price": 750.6
       },
       {
-        "_id": "terminal9",
+        "_id": "terminal10",
         "image": "/images/terminal1.png",
         "title": "FTTX-CO12(MPU)800",
         "description": "MTB-1244FD800FW-P",
@@ -73,7 +81,7 @@
         "price": 779.88
       },
       {
-        "_id": "terminal10",
+        "_id": "terminal11",
         "image": "/images/terminal1.png",
         "title": "FTTX-CO12(MPU)900",
         "description": "MTB-1244FD900FW-P",
@@ -81,7 +89,7 @@
         "price": 835.5
       },
       {
-        "_id": "terminal11",
+        "_id": "terminal12",
         "image": "/images/terminal1.png",
         "title": "FTTX-CO12(MPU)1000",
         "description": "MTB-1244FDA00FW-P",
@@ -89,23 +97,23 @@
         "price": 865.74
       },
       {
-        "_id": "terminal12",
+        "_id": "terminal13",
         "image": "/images/terminal1.png",
-        "title": "FTTX-CO12(MPU)1100",
+        "title": "MTB-1244FDB00FW-P",
         "description": "",
         "availableSizes": ["1100"],
         "price": 895.96
       },
       {
-        "_id": "terminal13",
+        "_id": "terminal14",
         "image": "/images/terminal1.png",
-        "title": "FTTX-CO12(MPU)1200",
+        "title": "MTB-1244FDC00FW-P",
         "description": "",
         "availableSizes": ["1200"],
         "price": 926.19
       },
       {
-        "_id": "terminal14",
+        "_id": "terminal15",
         "image": "/images/terminal1.png",
         "title": "FTTX-CO12(MPU)1300",
         "description": "",
@@ -113,7 +121,7 @@
         "price": 956.43
       },
       {
-        "_id": "terminal15",
+        "_id": "terminal16",
         "image": "/images/terminal1.png",
         "title": "FTTX-CO12(MPU)1400",
         "description": "",
@@ -121,12 +129,52 @@
         "price": 986.67
       },
       {
-        "_id": "terminal16",
+        "_id": "terminal17",
         "image": "/images/terminal1.png",
         "title": "FTTX-CO12(MPU)1500",
         "description": "",
         "availableSizes": ["1500"],
         "price": 1016.92
+      },
+      {
+        "_id": "terminal18",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)1600",
+        "description": "",
+        "availableSizes": ["1600"],
+        "price": 1056.92
+      },
+      {
+        "_id": "terminal19",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)1700",
+        "description": "",
+        "availableSizes": ["1700"],
+        "price": 1096.92
+      },
+      {
+        "_id": "terminal20",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)1800",
+        "description": "",
+        "availableSizes": ["1800"],
+        "price": 1136.92
+      },
+      {
+        "_id": "terminal21",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)1900",
+        "description": "",
+        "availableSizes": ["1900"],
+        "price": 1186.92
+      },
+      {
+        "_id": "terminal22",
+        "image": "/images/terminal1.png",
+        "title": "FTTX-CO12(MPU)2000",
+        "description": "",
+        "availableSizes": ["2000"],
+        "price": 1236.92
       }
     ]
   }
