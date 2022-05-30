@@ -4,22 +4,31 @@ import Products from "./components/Products";
 import Filter from "./components/Filter";
 import Cart from "./components/Cart";
 
+
 class App extends React.Component {
   constructor() {
     super();
     this.state = {
       products: data.products,
-      cartItems: [],
+      cartItems: localStorage.getItem("cartItems")
+        ? JSON.parse(localStorage.getItem("cartItems"))
+        : [],
       size: "",
       sort: "",
     };
   }
+  
   removeFromCart = (product) => {
     const cartItems = this.state.cartItems.slice();
     this.setState({
       cartItems: cartItems.filter((x) => x._id !== product._id),
     });
+    localStorage.setItem(
+      "cartItems",
+      JSON.stringify(cartItems.filter((x) => x._id !== product._id))
+    );
   };
+  
   addToCart = (product) => {
     const cartItems = this.state.cartItems.slice();
     let alreadyInCart = false;
@@ -33,6 +42,7 @@ class App extends React.Component {
       cartItems.push({ ...product, count: 1 });
     }
     this.setState({ cartItems });
+    localStorage.setItem("cartItems", JSON.stringify(cartItems));
   };
   sortProducts = (event) => {
     // impl
@@ -100,9 +110,19 @@ class App extends React.Component {
             </div>
           </div>
         </main>
-        <footer>MANCHESTER UNITED 2022</footer>
+        
+        <footer>&copy;MANCHESTER UNITED 2022</footer>
+       
+
+
       </div>
     );
   }
 }
 export default App;
+
+//export default function Footer() {
+
+
+
+
