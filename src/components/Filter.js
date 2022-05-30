@@ -34,6 +34,11 @@ export default class Filter extends Component {
             <option value="1300">1300</option>
             <option value="1400">1400</option>
             <option value="1500">1500</option>
+            <option value="1600">1600</option>
+            <option value="1700">1700</option>
+            <option value="1800">1800</option>
+            <option value="1900">1900</option>
+            <option value="2000">2000</option>
           </select>
         </div>
       </div>
